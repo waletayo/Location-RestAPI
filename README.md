@@ -31,7 +31,7 @@ DATABASE_URL_TEST='postgres://postgres:password@localhost/distanceApp-test'
 DATABASE_URL_DEV='postgres://postgres:password@localhost/distanceApp-test'
 
 ```
-##export DBUrl 
+## export DBUrl 
 Use the command Below
 
 for developemt environment run
