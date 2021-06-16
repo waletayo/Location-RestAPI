@@ -37,12 +37,12 @@ Use the command Below
 for developemt environment run
 
 ```
-export DATABASE_URL_DEV='developmentdburl'
+export DATABASE_URL_DEV='postgres://postgres:password@localhost/databasename-dev'
 ```
 for test environment run 
 
 ```
-export DATABASE_URL_TEST='testdburl'
+export DATABASE_URL_TEST='postgres://postgres:password@localhost/databasename-test'
 
 ```
 Run the following command to migrate our db
