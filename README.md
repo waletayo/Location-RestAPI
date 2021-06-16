@@ -27,8 +27,8 @@ Create a [.env] file in the root folder
 
 Add the line below
 ```
-DATABASE_URL_TEST='postgres://postgres:walex3913@localhost/distanceApp-test'
-DATABASE_URL_DEV='postgres://postgres:walex3913@localhost/distanceApp-test'
+DATABASE_URL_TEST='postgres://postgres:password@localhost/distanceApp-test'
+DATABASE_URL_DEV='postgres://postgres:password@localhost/distanceApp-test'
 
 ```
 ##export DBUrl 
